@@ -1,5 +1,5 @@
 This is my second internship project at Next24tech Technology and Services. This project deals with the e commerce produc recommendation system using data analytics and ML algorithm.
-The dataset contains 1465 entries and 16 columns, primarily focused on product information, user reviews, and pricing data. Here's a breakdown of the columns:
+The dataset contains 1465 entries and 16 columns, primarily focused on product information, user reviews, and pricing data. Here's a breakdown of the columns: 
 
 1. **product_id**: Unique identifier for the product.
 2. **product_name**: The name of the product.
