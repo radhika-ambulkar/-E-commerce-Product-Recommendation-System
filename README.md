@@ -44,7 +44,6 @@ The dataset contains 1465 entries and 16 columns, primarily focused on product i
    - Use metrics like **Precision@K** or **Recall@K** to evaluate the system’s recommendations.
    - A/B test the recommendations in a real environment to assess performance.
 
-#### 6. **Deployment**
-   - Deploy the model in production, integrating it with the platform’s user interface for real-time recommendations.
+
 
 
